@@ -21,7 +21,11 @@
 }
 
 .dark-red{
-    background-color: #95080b;
+    background-color: #ad080b;
+}
+
+.very-dark-red{
+    background-color: #680709;
 }
 
 .yellow-skin{
@@ -45,7 +49,7 @@
 }
 
 .light-gray{
-    background-color: #bbbab9;
+    background-color: #d2d2d2;
 }
 
 .gray{
