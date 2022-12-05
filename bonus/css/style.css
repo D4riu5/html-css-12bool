@@ -9,14 +9,6 @@
     margin: 50px auto;
 }
 
-.box.nested {
-    height: 60px;
-    background-color: #00E165;
-    line-height: 60px;
-    border: 1px solid #006CFA;
-}
-
-
 
 /* COLORS */
 
@@ -25,5 +17,38 @@
 }
 
 .red{
-    background-color: red;
+    background-color: rgb(239, 40, 40);
 }
+
+.dark-red{
+    background-color: #95080b;
+}
+
+.yellow-skin{
+    background-color: #e7bea4;
+}
+
+.yellow-skin-darker{
+    background-color: #c1a693;
+}
+
+.light-brown{
+    background-color: #58361c;
+}
+
+.brown{
+    background-color: #351e10;
+}
+
+.very-light-gray{
+    background-color: #f0eee9;
+}
+
+.light-gray{
+    background-color: #cac9c7;
+}
+
+.gray{
+    background-color: #aaa8a9;
+}
+
